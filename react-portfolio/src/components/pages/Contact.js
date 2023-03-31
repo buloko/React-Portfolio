@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../../assets/Benjamin_Uloko_Resume(2).pdf"
+import Resume from "../../../src/assets/Benjamin_Uloko_Resume.pdf"
 
 export default function Contact() {
     return (
@@ -34,7 +34,7 @@ export default function Contact() {
                     </p>
                   </header>
                   {/* form start */}
-                  <form action="mailto: david@tgsummit.com">
+                  <form action="mailto: buloko8@gmail.com">
                     <div class="flex flex-wrap flex-row -mx-4">
                       <div class="flex-shrink w-full max-w-full md:w-1/2 px-4 mb-6">
                         <label class="inline-block mb-2" for="name">
