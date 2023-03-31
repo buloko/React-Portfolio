@@ -3,7 +3,7 @@ import React from 'react'
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
     return (
-      <div className="nav-top fixed flex flex-nowrap lg:flex-start items-center z-20 top-0 left-0 right-0 overflow-y-auto max-h-screen lg:overflow-visible lg:max-h-full bg-violet-900">
+      <div className="nav-top fixed flex flex-nowrap lg:flex-start items-center z-20 top-0 left-0 right-0 overflow-y-auto max-h-screen lg:overflow-visible lg:max-h-full bg-blue-700">
         <nav className="container mx-auto px-4 xl:max-w-6xl ">
           <ul className="flex flex-row justify-between py-3">
             <li className="relative">
