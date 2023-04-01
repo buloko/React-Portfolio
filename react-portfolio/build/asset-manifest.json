@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/buloko/React-Portfolio/static/css/main.23928e48.css",
+    "main.js": "/buloko/React-Portfolio/static/js/main.bb773af9.js",
+    "static/media/evolangit.github.io_Marvel-Search-Engine_.png": "/buloko/React-Portfolio/static/media/evolangit.github.io_Marvel-Search-Engine_.70b68cad6bd33871ce86.png",
+    "static/media/Screen Shot 2023-03-31 at 2.40.12 PM.png": "/buloko/React-Portfolio/static/media/Screen Shot 2023-03-31 at 2.40.12 PM.79a0892bc1ee8b3e006c.png",
+    "static/media/me.jpeg": "/buloko/React-Portfolio/static/media/me.b8d0c80cdd94ade2e343.jpeg",
+    "static/media/buloko.github.io_Code-Quiz_.png": "/buloko/React-Portfolio/static/media/buloko.github.io_Code-Quiz_.b58486eb23e86d26d15b.png",
+    "static/media/buloko.github.io_Weather-Dashboard_.png": "/buloko/React-Portfolio/static/media/buloko.github.io_Weather-Dashboard_.74cafab382fdb596d677.png",
+    "static/media/glacial-retreat-87961.herokuapp.com_.png": "/buloko/React-Portfolio/static/media/glacial-retreat-87961.herokuapp.com_.10762bce974e82c7792d.png",
+    "static/media/Benjamin_Uloko_Resume.pdf": "/buloko/React-Portfolio/static/media/Benjamin_Uloko_Resume.e34ec15944661bcddb6d.pdf",
+    "static/media/buloko.github.io_Password-Generator_.png": "/buloko/React-Portfolio/static/media/buloko.github.io_Password-Generator_.a0582294757715c1abfb.png",
+    "index.html": "/buloko/React-Portfolio/index.html",
+    "main.23928e48.css.map": "/buloko/React-Portfolio/static/css/main.23928e48.css.map",
+    "main.bb773af9.js.map": "/buloko/React-Portfolio/static/js/main.bb773af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23928e48.css",
+    "static/js/main.bb773af9.js"
+  ]
+}
