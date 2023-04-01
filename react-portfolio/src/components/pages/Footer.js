@@ -11,12 +11,11 @@ export default function Footer() {
                 <div className="max-w-full px-4 w-full">
                   <div className="text-center">
                     <ul className="space-x-3">
-                      <li className="inline-block">
                         <li className="inline-block">
                             <a
                             target="_blank"
                             className="hover:text-gray-100"
-                            rel="nopener noreferrer"
+                            rel="noopener noreferrer"
                             href="https://www.linkedin.com/in/benjamin-uloko-633567244/"
                             title="Linkedin"
                             >
@@ -33,11 +32,11 @@ export default function Footer() {
                           </svg>   
                             </a>
                         </li>
-
+                        <li className="inline-block">
                         <a
-                        target="blank"
+                        target="_blank"
                         className="hover:text-gray-100"
-                        rel="nopener noreferrer"
+                        rel="noopener noreferrer"
                         href="https://github.com/buloko"
                         title="Github"
                         >
