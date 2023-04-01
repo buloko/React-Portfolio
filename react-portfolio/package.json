@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build:css": "postcsssrc/index.css -o src/tailwind.css",
+    "build:css": "postcss src/index.css -o src/tailwind.css",
     "watch:css": "postcss src/index.css -o src/tailwind.css -w",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
