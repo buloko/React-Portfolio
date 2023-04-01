@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../../../src/assets/Benjamin_Uloko_Resume.pdf"
+import Resume from "../../assets/Benjamin_Uloko_Resume.pdf"
 
 export default function Contact() {
     return (
