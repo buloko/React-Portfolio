@@ -5,6 +5,7 @@ import WeatherDashboard from "../../../src/assets/images/buloko.github.io_Weathe
 import MarvelSearch from "../../../src/assets/images/evolangit.github.io_Marvel-Search-Engine_.png";
 import JATE from "../../../src/assets/images/glacial-retreat-87961.herokuapp.com_.png";
 import README from "../../../src/assets/images/Screen Shot 2023-03-31 at 2.40.12 PM.png";
+import Swapshop from "../../../src/assets/images/swapshop.png"
 export default function Projects() {
     
 return (
@@ -209,6 +210,38 @@ return (
                     <div className="text-gray-600">
                       <p className="text-gray-500">
                         My very own weather app, put in any city and get the weather forecast for the next five days!
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/*item*/}
+            <div class="flex px-4 max-w-full w-full sm:1/2 lg: w-1/3 lg: px-6">
+              <div className="flex flex-col bg-white mb-12 rounded overflow-hidden shadow">
+                <div className="relative overflow-hidden">
+                  <a href="https://swopshop.herokuapp.com/">
+                    <div className="absolute inset-0 hover:bg-black opacity-0 transtition duration-700 hover opacity-20">
+                      <img
+                      className="max-w-full h-auto"
+                      src={Swapshop}
+                      alt="Swapshop"
+                      ></img>
+                    </div>
+                  </a>
+                </div>
+                <div className="py-6 px-8 flex-1">
+                  <div className="mb-2">
+                    <h3 className="text-xl leading-normal mb-4 font bold text-gray-800">
+                      <a href="https://swopshop.herokuapp.com/"
+                      className="hover:text-blue-700 dark:hover:text-gray-100"
+                      >
+                        Swapshop
+                      </a>
+                    </h3>
+                    <div className="text-gray-600">
+                      <p className="text-gray-500">
+                        My final project! the one shop stop for all swappin needs
                       </p>
                     </div>
                   </div>
